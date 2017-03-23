@@ -1,0 +1,66 @@
+<oaf_info>
+
+<oaf_server iid="OAFIID:GNOME_Stardict_Factory" type="exe" location="stardict">
+  <oaf_attribute name="repo_ids" type="stringv">
+    <item value="IDL:GNOME/ObjectFactory:1.0"/>
+  </oaf_attribute>
+  <oaf_attribute name="name" type="string" value="stardict automation factory"/>
+  <oaf_attribute name="name-ar" type="string" value="معالج أتمتة stardict"/>
+  <oaf_attribute name="name-be" type="string" value="мэханізм аўтаматызацыі stardict"/>
+  <oaf_attribute name="name-cs" type="string" value="generátor StarDict"/>
+  <oaf_attribute name="name-de" type="string" value="StarDict Automatisierungsfabrik"/>
+  <oaf_attribute name="name-el" type="string" value="πρόγραμμα αυτοματοποίησης του stardict"/>
+  <oaf_attribute name="name-es" type="string" value="Fábrica de automatización de StarDict"/>
+  <oaf_attribute name="name-fr" type="string" value="Génération automatique de StarDict"/>
+  <oaf_attribute name="name-ga" type="string" value="monarcha uathoibrithe stardict"/>
+  <oaf_attribute name="name-hr" type="string" value="stardict automacijski mehanizam"/>
+  <oaf_attribute name="name-hu" type="string" value="stardict automatizációs üzem"/>
+  <oaf_attribute name="name-kk" type="string" value="stardict automation factory"/>
+  <oaf_attribute name="name-lt" type="string" value="StarDict automatinis kūrimas"/>
+  <oaf_attribute name="name-mk" type="string" value="stardict фабрика за автоматизација"/>
+  <oaf_attribute name="name-nl" type="string" value="stardict geautomatiseerde fabriek"/>
+  <oaf_attribute name="name-pt_BR" type="string" value="fábrica de automação do stardict"/>
+  <oaf_attribute name="name-ru" type="string" value="фабрика автоматизации stardict"/>
+  <oaf_attribute name="name-sk" type="string" value="automatický generátor stardict"/>
+  <oaf_attribute name="name-sv" type="string" value="stardicts automatiksfabrik"/>
+  <oaf_attribute name="name-tr" type="string" value="stardict otomasyon fabrikası"/>
+  <oaf_attribute name="name-tt" type="string" value="stardict automation factory"/>
+  <oaf_attribute name="name-uk" type="string" value="фабрика автоматизації Зоряного словника"/>
+  <oaf_attribute name="name-vi" type="string" value="bộ tạo khả năng tự động hoá stardict"/>
+  <oaf_attribute name="name-zh_CN" type="string" value="星际译王自动工厂"/>
+  <oaf_attribute name="name-zh_TW" type="string" value="星際譯王自動工廠"/>
+</oaf_server>
+
+<oaf_server iid="OAFIID:GNOME_Stardict_Application" type="factory" location="OAFIID:GNOME_Stardict_Factory">
+  <oaf_attribute name="repo_ids" type="stringv">
+	<item value="IDL:Bonobo/Unknown:1.0"/>
+        <item value="IDL:GNOME/Stardict/Application:1.0"/>
+  </oaf_attribute>
+  <oaf_attribute name="name" type="string" value="stardict application"/>
+  <oaf_attribute name="name-ar" type="string" value="stardict application"/>
+  <oaf_attribute name="name-be" type="string" value="дастававаньне stardict"/>
+  <oaf_attribute name="name-cs" type="string" value="aplikace StarDict"/>
+  <oaf_attribute name="name-de" type="string" value="StarDict-Anwendung"/>
+  <oaf_attribute name="name-el" type="string" value="Εφαρμογή stardict"/>
+  <oaf_attribute name="name-es" type="string" value="Aplicación de StarDict"/>
+  <oaf_attribute name="name-fr" type="string" value="Application StarDict"/>
+  <oaf_attribute name="name-ga" type="string" value="feidhmchlár stardict"/>
+  <oaf_attribute name="name-hr" type="string" value="stardict program"/>
+  <oaf_attribute name="name-hu" type="string" value="stardict alkalmazás"/>
+  <oaf_attribute name="name-kk" type="string" value="stardict қолданбасы"/>
+  <oaf_attribute name="name-lt" type="string" value="StarDict žodynas"/>
+  <oaf_attribute name="name-mk" type="string" value="stardict апликација"/>
+  <oaf_attribute name="name-nl" type="string" value="stardict programma"/>
+  <oaf_attribute name="name-pt_BR" type="string" value="aplicativo stardict"/>
+  <oaf_attribute name="name-ru" type="string" value="stardict приложение"/>
+  <oaf_attribute name="name-sk" type="string" value="aplikácia stardict"/>
+  <oaf_attribute name="name-sv" type="string" value="stardict-program"/>
+  <oaf_attribute name="name-tr" type="string" value="stardict yazılımı"/>
+  <oaf_attribute name="name-tt" type="string" value="stardict yazılımı"/>
+  <oaf_attribute name="name-uk" type="string" value="програма &apos;Зоряний словник&apos;"/>
+  <oaf_attribute name="name-vi" type="string" value="ứng dụng stardict"/>
+  <oaf_attribute name="name-zh_CN" type="string" value="星际译王应用程序"/>
+  <oaf_attribute name="name-zh_TW" type="string" value="星際譯王應用程式"/>
+</oaf_server>
+
+</oaf_info>

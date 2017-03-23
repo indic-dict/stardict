@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<omf>
+  <resource>
+    <creator>(Hu Zheng)</creator>
+    <maintainer>(Hu Zheng)</maintainer>
+    <contributor>(Will Robinson)</contributor>
+    <contributor>(Новица Наков)</contributor>
+    <contributor>(Ruud Slaats)</contributor>
+    <contributor>(Александр Мурыгин)</contributor>
+    <contributor>(Сергій Дубик)</contributor>
+    <title>StarDict Manual V3.0.5</title>
+    <date>Jan 2011</date>
+    <version identifier="StarDict Manual V3.0.2" date="Jan 2011"/>
+    <subject category="GNOME|Applications"/>
+    <description>
+		User manual for the StarDict dictionary.
+	</description>
+    <type>user's guide</type>
+    <format mime="text/xml" dtd="-//OASIS//DTD DocBook XML V4.3//EN"/>
+    <identifier url="file:///usr/local/share/gnome/help/stardict/nl/stardict.xml"/>
+    <language code="nl"/>
+    <relation seriesid="b8082230-5987-4b7f-b26e-f7a219ed8a1e"/>
+    <rights type="GNU FDL" license.version="1.1" holder="Hu Zheng"/>
+  </resource>
+</omf>

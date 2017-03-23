@@ -1,0 +1,5 @@
+ttsplugin.lo: ttsplugin.cpp /usr/include/stdc-predef.h ttsplugin.h
+
+/usr/include/stdc-predef.h:
+
+ttsplugin.h:
